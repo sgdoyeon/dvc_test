@@ -1,4 +1,4 @@
 [core]
     remote = datas
 ['remote "datas"']
-    url = ssh://192.168.0.24:/data/disc1/dataset/dvc_cache
+    url = /data/fenway/dataset/dvc_cache
